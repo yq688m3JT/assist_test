@@ -11,3 +11,6 @@ This repository contains files created as part of a coding assistant exercise, i
 5. Changes pushed with `git push -u origin main`
 
 https://github.com/yq688m3JT/assist_test/tree/main
+
+Illustration Video:
+https://youtu.be/lpC4jF8k8og
